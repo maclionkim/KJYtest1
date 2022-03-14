@@ -8,7 +8,8 @@ public class Testclass{
 		//bbbb
 		//dsfsdfafsd wads
 		//fddg
-		
+		//sdfsfdㅈㅈㄷㄱㅈㄷㄱㅈㄱ
+		//코딩을 막해 
 	}
 	
 }
